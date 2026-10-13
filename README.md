@@ -1,3 +1,12 @@
+## 🚀 Live Demo
+
+Try the deployed application here:
+
+**[AI-Powered Real-Time Phishing Detection](https://ai-phishing-detection-sonam.streamlit.app/)**
+
+Enter a URL to analyze its patterns and receive a phishing-risk prediction.
+
+> **Disclaimer:** This tool analyzes URL features and patterns. It does not visit or block websites, and its predictions do not guarantee that a website is safe.
 # AI-Powered Real-Time Phishing Detection
 
 A machine learning project that analyzes URLs and predicts whether they may be phishing or legitimate. It uses URL-based feature extraction and a Random Forest classifier, with a Streamlit dashboard for interactive predictions.
